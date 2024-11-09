@@ -1,0 +1,49 @@
+{
+  "modules": [
+    {
+      "id": "1",
+      "code": "MOD001",
+      "name": "Introduction to Programming",
+      "hours": 40,
+      "field": "Computer Science",
+      "level": "Beginner",
+      "skills": "Problem-solving, Basic algorithms"
+    },
+    {
+      "id": "2",
+      "code": "MOD002",
+      "name": "Advanced Web Development",
+      "hours": 60,
+      "field": "Web Development",
+      "level": "Intermediate",
+      "skills": "HTML, CSS, JavaScript, React"
+    },
+    {
+      "id": "3",
+      "code": "MOD003",
+      "name": "Database Management",
+      "hours": 50,
+      "field": "Information Systems",
+      "level": "Intermediate",
+      "skills": "SQL, Database design, Optimization"
+    },
+    {
+      "id": "4",
+      "code": "MOD004",
+      "name": "Mobile App Development",
+      "hours": 45,
+      "field": "Mobile Development",
+      "level": "Advanced",
+      "skills": "React Native, Flutter, Mobile UI/UX"
+    },
+    {
+      "id": "375a",
+      "code": "M-204",
+      "name": "javascript",
+      "hours": "120",
+      "field": "DD",
+      "level": "A1",
+      "skills": "DOM "
+    }
+  ]
+}
